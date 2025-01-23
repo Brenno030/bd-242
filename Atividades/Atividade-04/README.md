@@ -36,4 +36,4 @@ feito.
    TB_PROFESSOR.ID = TB_CURSO_PROFESSOR.PROFESSOR_ID:<br>
 feito.
 
-<a href = "">imagem</a>
+<a href = "https://github.com/Brenno030/bd-242/blob/main/Atividades/Atividade-04/atividade_04_BD.png">imagem</a>
